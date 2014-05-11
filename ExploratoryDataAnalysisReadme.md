@@ -8,18 +8,3 @@ This repository is for the purpose of the Course Project 1 of the course Explora
 My project work is present in the two folders named plots(for plots in png format) and RCodes(for the R scripts).
 
 Please go through them.
-
-For the purpose of summarizing the results, The four figures obtained by running the code are also given below:
-
- 
-###Plot 1###
-![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot1.png?raw=true]
-
-###Plot 2###
-![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot2.png?raw=true]
-
-###Plot 3###
-![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot3.png?raw=true]
-
-###Plot 4###
-![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot4.png?raw=true]
