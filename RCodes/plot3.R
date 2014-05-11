@@ -26,10 +26,4 @@ plot3=function(){
         legend("topright",col=c("black","red","blue"),lty=c(1,1,1),legend=c("Sub_metering_1","Sub_metering_2", "Sub_metering_3"))
         dev.off()
         
-        
-        #plot(t, Sub_metering_1, type="l", xlab="", ylab="Global Active Power (kilowatts)",axes=F, )
-        
-        #legend("topright",cex=0.7, lty = 1, col = c("black", "red", "blue"), legend = c("Sub_metering_1", 
-         #                                                                               "Sub_metering_2", "Sub_metering_3"))
-        #plot3=dev.copy(png, 'plot3.png')
 }

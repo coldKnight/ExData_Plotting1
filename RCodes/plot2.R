@@ -16,6 +16,5 @@ plot2=function()
              xlab=" ",
              ylab="Global Active Power (kilowatts)")
         dev.off()
-        #plot(t, global_active_power, type="l", xlab="", ylab="Global Active Power (kilowatts)")
         
 }

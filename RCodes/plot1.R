@@ -15,6 +15,5 @@ plot1=function()
              xlab="Global Active Power (kilowatts)",
              col="Red")
         dev.off()
-        #hist(global_active_power,col="red",main="Global active power",xlab="Global active power(kilowatts)")
-        
+                
 }
