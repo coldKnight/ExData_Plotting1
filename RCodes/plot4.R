@@ -1,3 +1,6 @@
+#Vatsal Srivastava   vatsal410@gmail.com
+#This code is for the Course Project 1 of the Coursera course Exploratory Data Analysis
+
 plot_topleft <- function() {
         df = read.table("household_power_consumption.txt", header=T, sep=';')
         df$Date = as.Date(df$Date, format ="%d/%m/%Y")
