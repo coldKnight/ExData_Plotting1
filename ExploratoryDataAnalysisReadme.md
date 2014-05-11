@@ -13,4 +13,13 @@ For the purpose of summarizing the results, The four figures obtained by running
 
  
 ###Plot 1###
-![alt text][plot1.png]
+![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot1.png]
+
+###Plot 2###
+![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot2.png]
+
+###Plot 3###
+![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot3.png]
+
+###Plot 4###
+![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot4.png]
