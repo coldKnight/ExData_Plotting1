@@ -13,13 +13,13 @@ For the purpose of summarizing the results, The four figures obtained by running
 
  
 ###Plot 1###
-![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot1.png]
+![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot1.png?raw=true]
 
 ###Plot 2###
-![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot2.png]
+![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot2.png?raw=true]
 
 ###Plot 3###
-![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot3.png]
+![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot3.png?raw=true]
 
 ###Plot 4###
-![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot4.png]
+![][https://github.com/vatsal747/ExData_Plotting1/blob/master/plots/plot4.png?raw=true]
